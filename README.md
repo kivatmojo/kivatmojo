@@ -1,9 +1,8 @@
-- Hi, I’m Kiv, a 4th year Economics student at UCLA.
-- I’m interested in the data analytics field within the entertainment, technology, and automotive industries.
-- I’m currently learning to utilize spreadsheets, SQL, R, and Tableau to their full potential for data analysis by performing my own independent projects.
-- Email: kivatmojo@gmail.com
+Hi, I’m Kiv. 
 
-<!---
-kivatmojo/kivatmojo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a 4th-year Economics student at UCLA, and I am pursuing a career in the data analytics field.
+
+I’m actively performing projects to practice utilizing spreadsheets, SQL, R, and Tableau for data analysis.
+- Projects can be found [here](#portfolio).
+
+Email: kivatmojo@gmail.com
