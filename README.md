@@ -6,5 +6,4 @@ I’m actively performing projects to practice utilizing spreadsheets, SQL, R, P
 - Projects can be found [here](https://github.com/kivatmojo/portfolio#portfolio).
 
 [LinkedIn](https://www.linkedin.com/in/kivatmojo/) | Email: kivatmojo@gmail.com  
-Resume PDF: [As of 02/26/2024](https://github.com/kivatmojo/kivatmojo/files/14413186/Atmojo_Kiv_Resume.pdf)
-
+Resume PDF: [As of 03/15/2024](https://github.com/kivatmojo/kivatmojo/files/14621884/Atmojo_Kiv_Resume.pdf)
